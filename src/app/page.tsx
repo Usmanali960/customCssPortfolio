@@ -1,4 +1,3 @@
-import React from 'react'
 import 'boxicons/css/boxicons.min.css';
 import Navbar from './components/Navbar';
 import Services from './services/Services';

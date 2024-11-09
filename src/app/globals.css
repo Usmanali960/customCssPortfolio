@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+@import 'boxicons/css/boxicons.min.css';
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -23,7 +25,7 @@ body {
   font-family: "Syne", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  --mainColor:#7551FB;
+  --mainColor: #7551FB;
 }
 
 * {
